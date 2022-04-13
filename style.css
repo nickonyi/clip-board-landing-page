@@ -80,8 +80,6 @@
         padding-top: 60px;
     }
     
-    .hero-first-content-main-content-1 {}
-    
     .hero-first-content-main-content-heading {
         color: hsl(210, 10%, 33%);
         margin-top: 40px;
@@ -96,6 +94,67 @@
         margin-left: -10%;
     }
     /*------------------------ End of first-content-main styling-----------------------------*/
+    /*------------------------ start  of first-content-main styling-----------------------------*/
+    
+    .hero-second-content-header {
+        text-align: center;
+        color: hsl(210, 10%, 33%);
+        margin-top: 140px;
+    }
+    
+    .hero-second-content-text {
+        text-align: center;
+        margin-top: 20px;
+        color: hsl(201, 11%, 66%);
+    }
+    
+    .hero-second-content-img {
+        margin-top: 100px;
+        text-align: center;
+    }
+    /*------------------------ End of second-content-main styling-----------------------------*/
+    /*------------------------ Start of third-content-main styling-----------------------------*/
+    
+    .hero-third-content-header {
+        text-align: center;
+        color: hsl(210, 10%, 33%);
+        margin-top: 30px;
+    }
+    
+    .hero-third-content-text {
+        text-align: center;
+        margin-top: 20px;
+        margin-left: 50px;
+        font-size: 16px;
+        color: hsl(201, 11%, 66%);
+    }
+    /*------------------------ End of third-content-main styling-----------------------------*/
+    /*------------------------ Start of fourth-content-main styling-----------------------------*/
+    
+    .hero-fourth-content {
+        margin-top: 60px;
+        display: flex;
+        padding: 40px 80px 40px 80px;
+        gap: 20px;
+    }
+    
+    .hero-fourth-content-header {
+        text-align: center;
+        color: hsl(210, 10%, 33%);
+    }
+    
+    .hero-fourth-content-text {
+        text-align: center;
+        margin-top: 20px;
+        color: hsl(201, 11%, 66%);
+        line-height: 2.0rem;
+    }
+    
+    .fourth-content-img {
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    /*------------------------ End of fourth-content-main styling-----------------------------*/
     
     .attribution {
         font-size: 11px;

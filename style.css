@@ -1,0 +1,67 @@
+    * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+    
+    body {
+        font-size: 18px;
+        font-family: 'Bai Jamjuree', sans-serif;
+    }
+    /*------------------------Header styling-----------------------------*/
+    
+    .hero-header {
+        background-image: url("./images/bg-header-desktop.png");
+        background-repeat: no-repeat;
+    }
+    
+    .hero-heading {
+        text-align: center;
+        color: hsl(210, 10%, 33%);
+        margin-top: 40px;
+    }
+    
+    .hero-header-text {
+        text-align: center;
+        margin-top: 20px;
+        color: hsl(201, 11%, 66%);
+    }
+    
+    .hero-logo {
+        text-align: center;
+        padding-top: 100px;
+    }
+    
+    .btn {
+        text-align: center;
+        margin-top: 40px;
+        margin-bottom: 50px;
+    }
+    
+    .btn-primary {
+        padding: 15px 40px 15px 40px;
+        margin-right: 10px;
+        background-color: hsl(171, 66%, 44%);
+        color: hsl(0, 0%, 100%);
+        border: none;
+        border-radius: 25px;
+        font-weight: 600;
+    }
+    
+    .btn-secondary {
+        padding: 15px 40px 15px 40px;
+        background-color: hsl(233, 100%, 69%);
+        color: hsl(0, 0%, 100%);
+        border: none;
+        border-radius: 25px;
+        font-weight: 600;
+    }
+    
+    .attribution {
+        font-size: 11px;
+        text-align: center;
+    }
+    
+    .attribution a {
+        color: hsl(228, 45%, 44%);
+    }

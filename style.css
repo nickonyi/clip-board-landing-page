@@ -56,6 +56,46 @@
         border-radius: 25px;
         font-weight: 600;
     }
+    /*------------------------ start of first-content-main styling-----------------------------*/
+    
+    .hero-first-content-header {
+        text-align: center;
+        color: hsl(210, 10%, 33%);
+        margin-top: 140px;
+    }
+    
+    .hero-first-content-text {
+        text-align: center;
+        margin-top: 40px;
+        color: hsl(201, 11%, 66%);
+    }
+    
+    .hero-first-content-main {
+        display: flex;
+        gap: 30px;
+        margin-top: 100px;
+    }
+    
+    .hero-first-content-main-content {
+        padding-top: 60px;
+    }
+    
+    .hero-first-content-main-content-1 {}
+    
+    .hero-first-content-main-content-heading {
+        color: hsl(210, 10%, 33%);
+        margin-top: 40px;
+    }
+    
+    .hero-first-content-main-content-text {
+        margin-top: 10px;
+        color: hsl(201, 11%, 66%);
+    }
+    
+    .main-img {
+        margin-left: -10%;
+    }
+    /*------------------------ End of first-content-main styling-----------------------------*/
     
     .attribution {
         font-size: 11px;

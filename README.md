@@ -14,7 +14,7 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-
+- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/nickonyi/clip-board-landing-page.git)
-- Live Site URL: [Add live site URL here](https://nickonyi.github.io/clip-board-landing-page/)
+- Solution URL: [My link](https://github.com/nickonyi/clip-board-landing-page.git)
+- Live Site URL: [My link](https://nickonyi.github.io/clip-board-landing-page/)
 
 ## My process
 

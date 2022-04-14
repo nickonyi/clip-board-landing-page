@@ -155,6 +155,63 @@
         margin-bottom: 40px;
     }
     /*------------------------ End of fourth-content-main styling-----------------------------*/
+    /*------------------------ Start of logo styling-----------------------------*/
+    
+    .hero-logos {
+        display: flex;
+        justify-content: space-around;
+        margin-top: 100px;
+    }
+    /*------------------------ End of logo styling-----------------------------*/
+    /*------------------------ Start of content five styling-----------------------------*/
+    
+    .hero-content-five-heading {
+        text-align: center;
+        color: hsl(210, 10%, 33%);
+        margin-top: 150px;
+    }
+    
+    .hero-content-five-text {
+        text-align: center;
+        margin-top: 20px;
+        color: hsl(201, 11%, 66%);
+    }
+    /*------------------------ End of content five styling-----------------------------*/
+    /*------------------------ Start of footer styling-----------------------------*/
+    
+    .hero-footer {
+        margin-top: 150px;
+        background-color: hsla(201, 11%, 66%, 0.2);
+        display: flex;
+        padding: 50px;
+        gap: 50px;
+    }
+    
+    .hero-footer-text {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        row-gap: 20px;
+        column-gap: 40px;
+        margin-left: 100px;
+    }
+    
+    .hero-footer-logo {
+        margin-left: 100px;
+    }
+    
+    .hero-footer-icons {
+        position: relative;
+        left: 300px;
+        display: grid;
+        grid-template-columns: repeat(3, minmax(10px, 40px));
+        gap: 10px;
+    }
+    
+    .footer-logo {
+        height: 40px;
+        width: 40px;
+    }
+    /*------------------------ End of footer styling-----------------------------*/
     
     .attribution {
         font-size: 11px;

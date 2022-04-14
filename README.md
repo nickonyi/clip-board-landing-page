@@ -70,6 +70,6 @@ Everything that i have done here i have done with the help of Odin project so th
 ## Author
 
 - Website - [Clipboard landing page](https://nickonyi.github.io/clip-board-landing-page/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/nickonyi)
+- Frontend Mentor - [@nickonyi](https://www.frontendmentor.io/profile/nickonyi)
 
 
